@@ -1,0 +1,40 @@
+{
+  "employee": [
+    {
+      "id": "1",
+      "f_name": "Vidish",
+      "l_name": "Kumar",
+      "email": "vidishkumar@gmail.com",
+      "mobile_num": "8860464968",
+      "city_name": "New Delhi",
+      "comments": "I'am the Best."
+    },
+    {
+      "id": "f591",
+      "f_name": "Harshita ",
+      "l_name": "Kumar",
+      "email": "harshita@gamil.com",
+      "mobile_num": "8826166454",
+      "city_name": "DELHI",
+      "comments": "I'am a Data Scientist"
+    },
+    {
+      "id": "b763",
+      "f_name": "Reeta",
+      "l_name": "Reeta",
+      "email": "pradeepvidish@gmail.com",
+      "mobile_num": "9971309352",
+      "city_name": "NEW DELHI",
+      "comments": "I'am the Best cook."
+    },
+    {
+      "id": "201d",
+      "f_name": "Pradeep",
+      "l_name": "kumar",
+      "email": "standardshoesc22@gmail.com",
+      "mobile_num": "9818193204",
+      "city_name": "Agra",
+      "comments": "I'am a successfull businessman."
+    }
+  ]
+}

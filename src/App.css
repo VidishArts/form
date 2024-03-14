@@ -36,3 +36,106 @@
     transform: rotate(360deg);
   }
 }
+
+
+.header{
+  margin-top: 100px;
+  text-align: center;
+}
+.formback{
+  background-color: #1f2a69c7;
+  height: 600px;
+  width: 834px;
+  margin-top: 10px;
+  position: relative;
+  margin-left: 190px;
+  border-radius: 20px;
+  box-shadow: rgb(160, 71, 27) 5px 5px 5px 12px ;
+  
+ 
+  
+}
+.heading{
+  margin-top: 100px;
+  margin-left: 60px;
+  color: rgba(240, 248, 255, 0.785);
+}
+
+.font1{
+  font-size: 100px;
+}
+
+.font2{
+  font-size: 50px;
+
+}
+.font3{
+  font-size: 100px;
+}
+
+
+.forms{
+  margin-top: 90px;
+  width: 300px;
+  margin-left: 20px;
+  height: 30px;
+  outline: 0px; 
+  border-width: 0 0  4px; 
+  border-color: rgb(173, 105, 26);  
+  color: rgb(224, 214, 214);
+  background: none;
+  border-radius: 5px;
+  
+
+}
+
+.head{
+  
+  margin-top: 200px;
+}
+
+.btn1{
+  margin-left: 300px;
+  margin-top: 40px;
+}
+
+.links{
+ 
+  margin-left: 1300px;
+  margin-top: 00px;
+  width: 200px;
+  height: 35px;
+  margin-top: 10px;
+}
+
+
+
+/*EMPLOY LIST*/
+
+.title{
+  font-size: 50px;
+  font-weight: bolder;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  color: rgb(185, 203, 240);
+  margin-top: 2%;
+}
+
+
+.updateform{
+  margin-left: 400px;
+}
+
+
+.updatedform{
+  margin-top: 70px;
+  width: 300px;
+  margin-left: 20px;
+  height: 30px;
+  outline: 0px; 
+  border-width: 0 0  4px; 
+  border-color: rgb(173, 105, 26);  
+  color: rgb(224, 214, 214);
+  background: none;
+  border-radius: 5px;
+}
